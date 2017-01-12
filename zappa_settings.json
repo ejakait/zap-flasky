@@ -1,9 +1,6 @@
 {
     "dev": {
-        "app_function": "main.app",
-        "s3_bucket": "zappa-xk3t36u4g",
-        "environment_variables":{
-            "BOT_TOKEN":"195164940:AAFeXjml5xLRJ7-cEAsEnYwFrHiCP64OCGs"
-        }
+        "app_function": "main.app", 
+        "s3_bucket": "zappa-xk3t36u4g"
     }
 }
