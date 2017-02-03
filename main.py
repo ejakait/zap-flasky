@@ -1,3 +1,6 @@
+import sys
+import time
+import telepot
 from flask import Flask
 
 app = Flask(__name__)
